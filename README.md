@@ -2,40 +2,10 @@
 
 Bolt Quasar Template
 
-## Install the dependencies
-```bash
-yarn
-# or
-npm install
-```
+## How to use
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
+Visit https://bolt.new/github.com/bigjump/quasar-bolt to create
 
+### Known issues
 
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
-
-
-### Format the files
-```bash
-yarn format
-# or
-npm run format
-```
-
-
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+An error appears on first run mentioning a boot error - clear and ignore the error for now. The will load.
